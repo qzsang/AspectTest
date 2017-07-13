@@ -13,7 +13,7 @@ https://github.com/JakeWharton/hugo
 最佳实践：
 
 
-'''java
+```java
 @Aspect
 public class LPLogAspect {
   //  public String TAG = "";
@@ -76,4 +76,4 @@ public class LPLogAspect {
     }
 
 }
-'''
+```
